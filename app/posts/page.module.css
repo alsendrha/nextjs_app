@@ -1,0 +1,31 @@
+.main_container{
+  margin: 40px auto 0 auto;
+  text-align: center;
+  padding: 10px;
+}
+
+.padding{
+  padding: 10px;
+}
+
+.input_line{
+  margin-top: 20px;
+}
+
+.input{
+  width: 200px;
+  height: 30px;
+  border-radius: 5px;
+  padding: 10px;
+  margin-right: 5px;
+}
+
+.button {
+  height: 30px;
+  padding: 0 10px;
+  border-radius: 5px;
+  background-color: darkgrey;
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+}
